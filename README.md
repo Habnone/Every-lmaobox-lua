@@ -43,6 +43,8 @@ This repository should have every Lmaobox lua made and posted on Lmaobox Forums.
 
 ## Releases
 
+- Neverlose styled watermark - Neverlose styled watermark in the top right corner. by @muqa <https://raw.githubusercontent.com/Muqa1/Muqa-LBOX-pastas/main/neverlose%20watermark.lua requirement: https://mega.nz/file/YdcFka5T#0DMjC7u0qLdygeYdug6RaXlV8_oGM0eEv59UTn84AIY>
+
 - Random antiaim yaw/pitch lua - Set any of the antiaim options to custom to have that randomised. by @muqa <https://raw.githubusercontent.com/Muqa1/Muqa-LBOX-pastas/main/Antiaim.lua>
 
 - "Chaos Edition" Script - Features which hinder your gameplay in different ways. by @Nerdicous <https://github.com/Nerdicous/lmabox-junk/blob/main/ChaosEdition/chaos.lua>
