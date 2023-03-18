@@ -129,6 +129,7 @@ This repository should have every Lmaobox lua made and posted on Lmaobox Forums.
 
 - Scuffed spell esp - Shows you what spell you have. by @masterhero <https://github.com/LewdDeveloper/lmaobox-scripting/blob/master/spellesp.lua>
 
+- Swing Prediction - Predicts Swing  of melee weapon - By @terminatort8000 https://github.com/titaniummachine1/Swing_prediction.lua
 
 - Sound thunder on map. by @kaliSato <https://mega.nz/file/i0hzyDrB#38R1wG6n1rS1NaYik0pVRkjfWiZ-5qJNzXveGT2R6K0>
 
@@ -144,7 +145,7 @@ This repository should have every Lmaobox lua made and posted on Lmaobox Forums.
 
 - Vote logger - A simple script that shows who pressed F1 or F2 on a vote. by @ecksdee <https://pastebin.com/EdV3rCcR>
 
-- Working auto weapon switch 1.0 - Auto Weapon Switcher. by @terminatort8000 <https://github.com/titaniummachine1/better-auto-wepaon-switch/tree/main>
+- Weapon Manager. by @terminatort8000 <https://github.com/titaniummachine1/Weapon_Manager>
 
 - Yet another crit indicator - A crit indicator. by @masterhero <https://github.com/LewdDeveloper/lmaobox-scripting/blob/master/critindicator.lua>
 
