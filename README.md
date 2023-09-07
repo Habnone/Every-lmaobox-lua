@@ -135,6 +135,8 @@ This repository should have every Lmaobox lua made and posted on Lmaobox Forums.
 
 - Spin While Taunt - On AA and spins right at speed 10 when taunting and turns off when done. by @IamTheTrophy <https://github.com/DemonLoverHvH/lmaoboxluas/blob/main/FunnyTaunt.lua>
 
+- Stickyspammer - Spam stickies with one button and automatically detonate them. by @zz6108 <https://github.com/zz6108/stickyspammer/blob/master/stickyspam.lua>
+
 - Spy warning indicator - It indicates warning when a spy is nearby, shows name and distance. by @pred <https://github.com/pred14/lmaobox/blob/main/spy_warning.lua>
 
 - TriggerSpin! - Grabs your triggerbot / autobackstab key and uses it as a second keybind for Anti-Aim aswell. by @zade <https://github.com/dstnct/Lmaobox-Luas/blob/main/TriggerSpin.lua>
