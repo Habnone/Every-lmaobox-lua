@@ -22,10 +22,11 @@ This repository should have every Lmaobox lua made and posted on Lmaobox Forums.
 
 - sv_cheats bypass lua - Bypasses the sv_cheats lock for client sided-commands. by @Ace_Is_High <https://github.com/AceIsHighAsFuck/sv_cheats-bypass-lua/blob/main/sv_cheats.lua>
 
-
 - Minimalist Colored by FPS Watermark - It's an Minimalist. by @Nikowo <https://github.com/NikoTheCutie/MyLuas>
 
 - menutoggle.lua - Another menu that adds useful utility. by @masterhero <https://github.com/LewdDeveloper/lmaobox-scripting/blob/master/menutoggle.lua>
+
+- IRIS V1.1 - [LMAOBOX Script Set] - A giant mashup of a ton of scripts made for LMAOBOX. by @Kaoir <https://github.com/PhoenixAceVFX/IRIS-LMAOBOX>
 
 
 ## Libarys
@@ -88,8 +89,6 @@ This repository should have every Lmaobox lua made and posted on Lmaobox Forums.
 - Freecam / Noclip - This script allows you to fly around the map (client-side of course) while holding the freecam key. by @lnx00 <https://github.com/lnx00/Lmaobox-LUA/blob/main/Freecam.lua>
 
 - Give yourself a vintage community sparkle lugermorph - You can equip it but it won't show up in game. by @kast1450 <https://pastebin.com/jrY8dxvn>
-
-- IRIS V1.1 - [LMAOBOX Script Set] - A giant mashup of a ton of scripts made for LMAOBOX. by @Kaoir <https://github.com/PhoenixAceVFX/IRIS-LMAOBOX>
 
 - Intentionally Bad Watermark - For those who wanna suffer with a terribly bland and normal-looking watermark. by @Xee545 <https://github.com/Xee545/lmaobox-luas/blob/main/badwatermark.lua>
 
